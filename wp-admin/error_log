@@ -1,0 +1,84 @@
+[26-Jan-2018 08:56:25 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:56:54 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:56:59 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:04 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:06 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:11 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:14 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:14 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:16 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:19 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:20 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:20 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:22 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:31 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 08:57:32 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 09:07:09 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 09:07:10 UTC] PHP Notice:  Undefined property: WP_Error::$ID in /home/gadggrki/public_html/wp-includes/class-wp-user.php on line 170
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: show_onfrontpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 111
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: show_oncategory in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 112
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: show_ontagpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 113
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: show_onarticlepages in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 114
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: include_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 117
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: display_on_shop in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 119
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: display_on_productcategory in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 120
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: display_on_productpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 121
+[26-Jan-2018 16:17:38 UTC] PHP Notice:  Undefined index: display_on_producttag in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 122
+[28-Jan-2018 15:35:42 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[28-Jan-2018 15:35:42 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[28-Jan-2018 15:35:42 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[28-Jan-2018 15:35:54 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[28-Jan-2018 15:35:54 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[28-Jan-2018 15:35:54 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[28-Jan-2018 15:36:07 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[28-Jan-2018 15:36:07 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[28-Jan-2018 15:36:07 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: show_onfrontpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 111
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: show_oncategory in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 112
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: show_ontagpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 113
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: show_onarticlepages in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 114
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: exclude_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 115
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: include_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 117
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: display_on_shop in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 119
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: display_on_productcategory in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 120
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: display_on_productpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 121
+[03-Feb-2018 17:00:56 UTC] PHP Notice:  Undefined index: display_on_producttag in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 122
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: show_onfrontpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 111
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: show_oncategory in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 112
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: show_ontagpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 113
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: show_onarticlepages in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 114
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: exclude_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 115
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: include_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 117
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: display_on_shop in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 119
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: display_on_productcategory in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 120
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: display_on_productpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 121
+[03-Feb-2018 17:16:14 UTC] PHP Notice:  Undefined index: display_on_producttag in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 122
+[03-Feb-2018 17:16:33 UTC] PHP Notice:  Undefined index: show_onfrontpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 111
+[03-Feb-2018 17:16:33 UTC] PHP Notice:  Undefined index: show_oncategory in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 112
+[03-Feb-2018 17:16:33 UTC] PHP Notice:  Undefined index: show_ontagpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 113
+[03-Feb-2018 17:16:33 UTC] PHP Notice:  Undefined index: show_onarticlepages in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 114
+[03-Feb-2018 17:16:33 UTC] PHP Notice:  Undefined index: exclude_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 115
+[03-Feb-2018 17:16:33 UTC] PHP Notice:  Undefined index: include_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 117
+[03-Feb-2018 17:17:18 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[03-Feb-2018 17:17:18 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[03-Feb-2018 17:17:18 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[03-Feb-2018 17:17:24 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[03-Feb-2018 17:17:24 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[03-Feb-2018 17:17:24 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[03-Feb-2018 17:17:30 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[03-Feb-2018 17:17:30 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[03-Feb-2018 17:17:30 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[03-Feb-2018 18:09:51 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/gadggrki/public_html/wp-admin/includes/translation-install.php on line 66
+[12-Feb-2018 14:18:19 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/gadggrki/public_html/wp-admin/includes/plugin-install.php on line 165
+[12-Feb-2018 14:48:36 UTC] PHP Notice:  Undefined index: show_onfrontpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 111
+[12-Feb-2018 14:48:36 UTC] PHP Notice:  Undefined index: show_oncategory in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 112
+[12-Feb-2018 14:48:36 UTC] PHP Notice:  Undefined index: show_ontagpage in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 113
+[12-Feb-2018 14:48:36 UTC] PHP Notice:  Undefined index: show_onarticlepages in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 114
+[12-Feb-2018 14:48:36 UTC] PHP Notice:  Undefined index: exclude_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 115
+[12-Feb-2018 14:48:36 UTC] PHP Notice:  Undefined index: include_url in /home/gadggrki/public_html/wp-content/plugins/tawkto-live-chat/tawkto.php on line 117
+[05-Mar-2018 08:38:54 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[05-Mar-2018 08:38:54 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[05-Mar-2018 08:38:54 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[28-Mar-2018 11:39:23 UTC] The woocommerce_get_product_schema function is deprecated since version 3.0.
+[28-Mar-2018 11:39:23 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[28-Mar-2018 11:39:23 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.

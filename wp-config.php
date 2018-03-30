@@ -35,9 +35,9 @@ define('DB_HOST', 'localhost');
 
 /*Online Choton mama*/
 /*define('DB_NAME', 'gadggrki_gadget_bd');
-define('DB_USER', 'gadggrki_choton');
-define('DB_PASSWORD', 'ewx07T4_75,8');
-define('DB_HOST', 'www.gadget-bd.com');*/
+define('DB_USER', 'gadggrki_gadget_bd');
+define('DB_PASSWORD', '5v#w;@k2[1~$');
+define('DB_HOST', 'localhost');*/
 
 /** Database Charset to use in creating database tables. /**/
 define('DB_CHARSET', 'utf8mb4');

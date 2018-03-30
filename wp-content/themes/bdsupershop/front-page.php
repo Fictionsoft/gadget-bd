@@ -1,8 +1,6 @@
 <?php get_header(); ?>
-<div class="container">
-    <div class="slider">
-        <?php if( function_exists('cyclone_slider') ) cyclone_slider('home-slider'); ?>
-    </div>
+<div class="slider">
+    <?php if( function_exists('cyclone_slider') ) cyclone_slider('home-slider'); ?>
 </div>
 
 <div class="container">
