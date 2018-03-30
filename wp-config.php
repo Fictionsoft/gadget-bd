@@ -27,7 +27,7 @@ define('DB_PASSWORD', 'tKmH6mg0X90o');
 define('DB_HOST', 'fictionsoft.com');*/
 
 /*Local*/
-define('DB_NAME', 'gadgetbd');
+define('DB_NAME', 'gadget_bd');
 define('DB_USER', 'root');
 define('DB_PASSWORD', '');
 define('DB_HOST', 'localhost');
