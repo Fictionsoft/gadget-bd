@@ -1,9 +1,12 @@
 <?php get_header(); ?>
-<div class="slider">
-    <?php if( function_exists('cyclone_slider') ) cyclone_slider('home-slider'); ?>
-</div>
+
 
 <div class="container">
+
+    <div class="slider">
+        <?php if( function_exists('cyclone_slider') ) cyclone_slider('home-slider'); ?>
+    </div>
+
     <div class="main_section">
         <div class="col-sm-2 removing_padding">
             <!--<div class="col-sm-6">

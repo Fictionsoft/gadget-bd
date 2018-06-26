@@ -821,8 +821,8 @@ ul.sub-menu{
     background: #fff;
     margin-bottom: 15px;
     text-align: center;
-    border-top: 2px solid #4E9E45;
-    border-right: 1px solid #eee;
+    border-right: 1px solid #eee!important;
+    border: 2px solid #4E9E45;
 }
 .side_cat a {
     font-size: 12px;
@@ -861,6 +861,8 @@ ul.sub-menu{
     border-top: 2px solid #4E9E45;
     background: #fff;
     width: 100%;
+    border-bottom: 2px solid #4E9E45;
+    border-right: 2px solid #4E9E45;
 }
 .main_image {
     border-right: 1px solid #eee;
@@ -901,7 +903,7 @@ ul.sub-menu{
 }
 .sub_image img {
     width: 100%;
-    height: 227px;
+    height: 226px;
     border-right: 1px solid #eee;
     padding: 30px;
     border-bottom: 1px solid #eee;
@@ -909,7 +911,7 @@ ul.sub-menu{
 
 
 .sub_cat_img_width {
-width: 20.82%!important;
+    width: 20.80%!important;
 }
 
 
